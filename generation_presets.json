@@ -1,0 +1,12 @@
+{
+    "ghibli": {
+        "mode": "Story",
+        "character": "Storyteller",
+        "speaker": "Aimee.wav",
+        "ollama_model": "hf.co/MaziyarPanahi/Dirty-Shirley-Writer-v01-Uncensored-GGUF:Q8_0",
+        "sd_checkpoint": "redcraftCADSUpdatedMar25_illust3relustion.safetensors [204049605a]",
+        "sd_vae": "",
+        "sd_style": "Kamph_Ghibli (PO)",
+        "sd_negative_prompt": "ugly, deformed, blurry, low quality, text, signature, watermark, noise, artefacts, lowres, bad anatomy, bad hands, extra digits, fewer digits, mutated hands, disconnected limbs"
+    }
+}
